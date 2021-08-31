@@ -51,8 +51,6 @@
   </tbody>
 </table>
 
-
-
 #### Sub Project
 Name | About | State
 ------------ | ------------- | -------------
@@ -60,3 +58,10 @@ MonsterHunter 3rd TH | Thai translation Patch | learning patch
 GodEater 2 TH | Thai translation Patch | learning patch
 Ann in Stardew | Npc Mod StardewValley | publish
 
+### Working on
+- Window / Coding
+- GameDev
+- NodeJs
+- etc.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3tew&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
