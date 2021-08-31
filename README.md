@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi ,am Nattaset 👋
+- I studied at Anukoolnaree and am a freelancer.
+- Usually working on Programming and Digital painting.
+- Facebook <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Nattaset Panlek](https://www.facebook.com/EarthNattasetPanlek/)
 
-<!--
-**asnise/asnise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Am I Use
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Sub Project
+Name | About | State
+------------ | ------------- | -------------
+MonsterHunter 3rd TH | Thai translation Patch | learning patch
+GodEater 2 TH | Thai translation Patch | learning patch
+Ann in Stardew | Npc Mod StardewValley | publish
+
