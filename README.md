@@ -14,8 +14,6 @@
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
       </td>
       <td width="25%" align="center">
-        <span><b>Nuxt.js</b></span><br>
-        <small>(Front-end)</small><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
       </td>
       <td width="25%" align="center">
