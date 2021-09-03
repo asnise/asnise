@@ -1,7 +1,7 @@
 ### Hi ,am Nattaset 👋
 - I studied at Anukoolnaree and am a freelancer.
 - Usually working on Programming and Digital painting.
-- Facebook <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Nattaset Panlek](https://www.facebook.com/EarthNattasetPanlek/)
+- <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Nattaset Panlek](https://www.facebook.com/EarthNattasetPanlek/)
 
 #### Language Tools
 <table>
