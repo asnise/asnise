@@ -65,3 +65,11 @@ Ann in Stardew | Npc Mod StardewValley | publish
 - 🕐 etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnise&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function () {
+	$.getJSON("https://api.countapi.xyz/hit/asnise.github.io/visits", function (response) {
+		$("#visits").text("จำนวนเข้าชม : " + response.value);
+	});
+});
+</script>
